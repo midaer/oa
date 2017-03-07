@@ -1,0 +1,9 @@
+[ 2017-03-06T02:38:35+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2017-03-06T15:02:36+08:00 ] 127.0.0.1 /Public/Admin/bootstrap/js/jquery.min.map
+ERR: 无法加载模块:Public
+
+[ 2017-03-06T18:19:36+08:00 ] 127.0.0.1 /Public/Admin/bootstrap/js/jquery.min.map
+ERR: 无法加载模块:Public
+
